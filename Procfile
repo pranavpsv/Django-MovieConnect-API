@@ -1,1 +1,1 @@
-web: gunicorn movieConnect.wsgi
+web: gunicorn django_api.wsgi
